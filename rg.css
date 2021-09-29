@@ -1,0 +1,84 @@
+*{
+	margin: 0 auto;
+}
+
+.head{
+	background-color: red;
+
+}
+
+.direct{
+	margin-left: 680px;
+}
+
+.span {
+	color: red;
+}
+
+.h-side{
+  margin-top:0px ;	
+}
+
+.main .box-1{
+	position: absolute;
+	margin: 0 auto;
+	top: 300px;
+	margin-left: 450px;
+	color: white;
+	text-align: center;
+}
+
+footer .footer{
+	position: relative;
+	background-color: brown;
+	top: 650px;
+	overflow: hidden;
+	height: 35px;
+}
+
+.down{
+	color: white;
+	margin-left: 100px;
+}
+.facebook{
+	margin-right: 10px;
+	margin-left: 150px;
+}
+.instagram{
+	margin-right: 10px;
+}
+.in{
+	margin-right: 10px;
+}
+
+#main nav ul {
+	float: right;
+	margin-right: 20px;
+	margin-top: 20px;
+
+}
+#main nav ul li {
+	list-style-type:none ;
+	display: inline-block;
+	margin: 0 8px;
+	line-height: 50px;
+}
+
+#main nav ul li a  {
+	text-decoration: none;
+	color: #fff;
+	font-size: 14px;
+	padding: 6px 13px;
+	transition: 0.4s all ease-out;
+	color: orange;
+}
+#main nav ul li a.active,
+#main nav ul li a:hover {
+	background: #fd4a47;
+	color: #fff;
+	transition: 0.4s all ease-out;}
+
+	.form-group{
+		text-align: center;
+		float: inherit;
+	}
